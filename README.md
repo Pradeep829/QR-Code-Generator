@@ -14,5 +14,5 @@ Finally, the tool is also versatile and can be used to generate codes for a vari
 Overall, QR Code Generator using Angular Js and IONIC is a powerful and easy to use tool for creating customized QR codes for any purpose. With its versatile features and user-friendly interface, users can quickly and easily generate high-quality QR codes for any purpose.
 
 Project Platform: Angular JS
-Languages:Ionic
+Languages:Ionic and Angular JS
 Code Editor: IONIC and Visual Studio Code
